@@ -30,6 +30,4 @@ I enjoy working across the entire stack—from crafting responsive, pixel-perfec
 ### 📫 Let's connect!
 📧 **Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
 💼 **LinkedIn:** [Julia San José](https://www.linkedin.com/in/jsanjosel)  
-
-☕ **Support my work:**  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tu_usuario)
+☕ **Support my work:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsanjosel)
