@@ -1,4 +1,4 @@
-# Hi 👋, I'm Julia San José
+# Hi 👋, I'm Yuls
 
 ### Crafting aesthetic UIs & robust backend solutions 🚀
 
