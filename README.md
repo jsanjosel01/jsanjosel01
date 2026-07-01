@@ -27,7 +27,20 @@ I enjoy working across the entire stack—from crafting responsive, pixel-perfec
 * **🚀 Always learning:** Advanced JavaScript patterns, UI/UX optimization, and web performance.
 * **💡 Fun fact:** I believe clean, beautiful code should always look just as good as the user interface.
 
-### 📫 Let's connect!
+---
+
+## ✉️ Contact & Connect
+
+If you'd like to get in touch, have a project proposal, or just want to chat about code, design, and photography, feel free to reach out through any of these channels:
+
 📧 **Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
-💼 **LinkedIn:** [Julia San José](https://www.linkedin.com/in/jsanjosel)  
-☕ **Support my work:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsanjosel)
+💼 **LinkedIn:** [linkedin.com/in/jsanjosel](https://www.linkedin.com/in/jsanjosel)  
+☕ **Buy Me a Coffee:** [Buy me a coffee](https://buymeacoffee.com/jsanjosel)
+
+(https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
+
+I'm always excited to connect with other tech professionals. Let's talk soon! 😊
+
+---
+
+> "Code is the structure; creativity is the lens through which you view the world." 📸✨
