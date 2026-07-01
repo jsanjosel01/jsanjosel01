@@ -29,18 +29,17 @@ I enjoy working across the entire stack—from crafting responsive, pixel-perfec
 
 ---
 
-## ✉️ Contact & Connect
+### 📫 Let's connect!
 
-If you'd like to get in touch, have a project proposal, or just want to chat about code, design, and photography, feel free to reach out through any of these channels:
+If you'd like to get in touch, have a project proposal, or just want to chat about code, design, and photography, feel free to reach out:
 
 📧 **Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jsanjosel](https://www.linkedin.com/in/jsanjosel)  
-☕ **Buy Me a Coffee:** [Buy me a coffee](https://buymeacoffee.com/jsanjosel)
+☕ **Support my work:**  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsanjosel)
 
-(https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
-
-I'm always excited to connect with other tech professionals. Let's talk soon! 😊
+*I'm always excited to connect with other tech professionals. Let's talk soon!*
 
 ---
 
-> "Code is the structure; creativity is the lens through which you view the world." 📸✨
+> "Code is the structure; creativity is the lens through which you view the world." 👩🏽‍💻📸✨
