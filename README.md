@@ -29,4 +29,4 @@ I enjoy working across the entire stack—from crafting responsive, pixel-perfec
 
 ### 📫 Let's connect!
 📧 **Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
-💼 **LinkedIn:** [Julia San José León](https://linkedin.com/in/julia-san-jose-leon)
+💼 **LinkedIn:** [Julia San José](www.linkedin.com/in/jsanjosel)
