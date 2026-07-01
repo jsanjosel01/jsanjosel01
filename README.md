@@ -33,9 +33,12 @@ I enjoy working across the entire stack—from crafting responsive, pixel-perfec
 
 If you'd like to get in touch, have a project proposal, or just want to chat about code, design, and photography, feel free to reach out:
 
-📧 **Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/jsanjosel](https://www.linkedin.com/in/jsanjosel)  
-☕ **Support my work:**  
+* **📧 Email:** [juliasjl30@gmail.com](mailto:juliasjl30@gmail.com)  
+* **💼 LinkedIn:** [linkedin.com/in/jsanjosel](https://www.linkedin.com/in/jsanjosel)  
+* **☕ Support my work:** [buymeacoffee.com/jsanjosel](https://buymeacoffee.com/jsanjosel)
+
+<br>
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsanjosel)
 
 *I'm always excited to connect with other tech professionals. Let's talk soon!*
